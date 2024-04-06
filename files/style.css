@@ -651,7 +651,7 @@ body {
 
 /*Responsive My Phone*/
 
-@media (max-width: 900px) and (min-width: 850px) {
+@media (max-width: 900px) and (min-width: 700px) {
     .header{
         display:block;
     }
@@ -678,7 +678,7 @@ body {
     
 }
 /*Responsive Small phone*/
-@media (max-width: 850px) and (min-width: 375px) {
+@media (max-width: 700px) and (min-width: 375px) {
     *{
         overflow-x: hidden;
         overflow-y: inherit;
@@ -933,7 +933,7 @@ body {
         margin: 5px;
     }
 
-
+    
     .abtbtn-box:hover {
         box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
     }
