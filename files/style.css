@@ -269,6 +269,58 @@ body {
     box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan, 0 0 200px cyan;
 }
 
+/*Experience*/
+/* Skills */
+#Experience{
+    background-color: #000;
+}
+.subtitle {
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 10px;
+    padding-top: 70px;
+    
+}
+.cards{
+    width: 400px;
+    height: 300px;
+    min-width: 200px;
+    display: inline-block;
+    box-shadow: 2px 2px 20px #0ef;
+    border-radius: 5px; 
+    border: 5px solid #0ef;
+    margin: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.cards .des p{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.titles-exp{    
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.cards .titles-exp p{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.cards .titles-exp h1{
+    font-size: 20px;
+}
+.subtitle span {
+    color: #0ef;
+}
+
+
 
 /* Skills */
 #Skills{
