@@ -1,10 +1,10 @@
 
 var typed = new Typed(".text", {
-    strings: ["Programming" , "Web Development", "Machine Learning"],
-    typeSpeed:100,
-    backSpeed:100,
-    backDelay:1000,
-    loop:true
+    strings: ["Programmation", "Développement Web", "Machine Learning"],
+    typeSpeed: 100,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop: true
 });
 
 
